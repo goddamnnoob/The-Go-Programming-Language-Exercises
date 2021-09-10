@@ -8,6 +8,6 @@ import (
 	"strings"
 )
 
-func main() {
+func EX11() {
 	fmt.Println(strings.Join(os.Args[:], ""))
 }
